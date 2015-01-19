@@ -2,4 +2,4 @@
 
 ## Purpose
 
-Learning Deployment Java Application in Tomcat on Docker 
+Learning deployment Java application in Tomcat on Docker 
